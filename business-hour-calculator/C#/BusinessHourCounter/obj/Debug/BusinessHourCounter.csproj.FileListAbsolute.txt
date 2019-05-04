@@ -1,0 +1,7 @@
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounter\bin\Debug\BusinessHourCounter.exe.config
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounter\bin\Debug\BusinessHourCounter.exe
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounter\bin\Debug\BusinessHourCounter.pdb
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounter\obj\Debug\BusinessHourCounter.csprojAssemblyReference.cache
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounter\obj\Debug\BusinessHourCounter.csproj.CoreCompileInputs.cache
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounter\obj\Debug\BusinessHourCounter.exe
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounter\obj\Debug\BusinessHourCounter.pdb

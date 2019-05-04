@@ -1,0 +1,17 @@
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\bin\Debug\BusinessHourCounterTest.dll
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\bin\Debug\BusinessHourCounterTest.pdb
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\bin\Debug\BusinessHourCounter.exe
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\bin\Debug\BusinessHourCounter.pdb
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\bin\Debug\BusinessHourCounter.exe.config
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\obj\Debug\BusinessHourCounterTest.csprojAssemblyReference.cache
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\obj\Debug\BusinessHourCounterTest.csproj.CoreCompileInputs.cache
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\obj\Debug\BusinessHourCounterTest.csproj.CopyComplete
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\obj\Debug\BusinessHourCounterTest.dll
+C:\Users\Anders\source\repos\BusinessHourCounter\BusinessHourCounterTest\obj\Debug\BusinessHourCounterTest.pdb

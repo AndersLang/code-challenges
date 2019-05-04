@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessHourCounter", "BusinessHourCounter\BusinessHourCounter.csproj", "{5120459F-B4A9-4415-9C64-9357E79F9E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessHourCounterTest", "BusinessHourCounterTest\BusinessHourCounterTest.csproj", "{B2E13730-AB8A-4C10-835A-0602D82DA371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5120459F-B4A9-4415-9C64-9357E79F9E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5120459F-B4A9-4415-9C64-9357E79F9E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5120459F-B4A9-4415-9C64-9357E79F9E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5120459F-B4A9-4415-9C64-9357E79F9E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E13730-AB8A-4C10-835A-0602D82DA371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E13730-AB8A-4C10-835A-0602D82DA371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E13730-AB8A-4C10-835A-0602D82DA371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E13730-AB8A-4C10-835A-0602D82DA371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C13FF624-1C56-46DA-B4EC-1EE75611CB52}
+	EndGlobalSection
+EndGlobal
