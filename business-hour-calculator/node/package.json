@@ -1,0 +1,25 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "Repo of different code challenges to solve in different languages. Feel free to convert the existing challenges to any language you see fit. Follow the existing directory pattern please!",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jest": "^24.8.0",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersLang/code-challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndersLang/code-challenges/issues"
+  },
+  "homepage": "https://github.com/AndersLang/code-challenges#readme"
+}
