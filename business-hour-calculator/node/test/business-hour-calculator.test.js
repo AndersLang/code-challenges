@@ -1,15 +1,7 @@
 const moment = require('moment');
-const modulen = require('../app/tools');
+const tools = require('../app/tools');
 
-describe('Test counter eller å', () => {
-	it('test_calculation_of_hours_within_the_same_date_is_done_correct', () => {
-  	const date1 = moment('2018-01-03T04:00:00.123123+0200').toDate();
-    const date2 = moment('2018-01-03T18:00:00.123123+0200').toDate();
-  	expect(modulen.count(date1, date2)).toEqual(12.0);
-  });
-});
-
-const test = [
+const tests = [
 {
     name: 'test_calculation_of_hours_within_the_same_date_is_done_correct',
     start: '2018-01-03T04:00:00.123123+0200',
@@ -141,6 +133,6 @@ tests.forEach(test => {
 it(test.name, () => {
   	const date1 = moment(test.start).toDate();
     const date2 = moment(test.end).toDate();
-  	expect(modulen.count(date1, date2)).toEqual(test.expected);
+  	expect(tools.get_business_hour_between_timestamps(date1, date2)).toEqual(test.expected);
   })
 });
